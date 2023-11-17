@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-#st.set_page_config(layout="wide")
+st.set_page_config(layout="wide")
 st.header("test html import")
 
 # Function to load HTML file based on dropdown selection
