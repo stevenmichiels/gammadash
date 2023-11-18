@@ -1,0 +1,7 @@
+__pycache__/
+/.quarto/
+/docs/.quarto/
+/docs/_freeze/
+/_freeze/
+/.vscode/
+/.ipynb_checkpoints/

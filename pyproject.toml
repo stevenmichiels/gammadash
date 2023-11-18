@@ -1,0 +1,53 @@
+[tool.poetry]
+name = "pytimetk"
+version = "0.2.1.9000"
+description = "The time series toolkit for Python."
+authors = [
+    "Business Science <info@business-science.io>",
+    "Quant Science <info@quantscience.io>",
+    "Matt Dancho <mdancho@business-science.io>",
+    "Justin B. Kurland <justin.b.kurland@gmail.com>",
+]
+maintainers = [
+    "Matt Dancho <mdancho@business-science.io>",
+    "Justin B. Kurland <justin.b.kurland@gmail.com>",
+    "Jeff Tackes <tackes@gmail.com>",
+    "Samuel Macêdo <svm.macedo@gmail.com>",
+    "Lucas Okwudishu <clfo2014@gmail.com>",
+    "Alex Riggio <alexmriggio@gmail.com>",
+]
+license = "LICENSE"
+readme = "README.md"
+keywords = ["time series", "forecasting", "machine learning", "data science"]
+homepage = "https://business-science.github.io/pytimetk/"
+repository = "https://github.com/business-science/pytimetk"
+documentation = "https://business-science.github.io/pytimetk/reference/"
+
+[tool.poetry.dependencies]
+python = ">=3.9"
+pandas = ">=1.5.0"
+pandas-flavor = "^0.6.0"
+matplotlib = "^3.8.0"
+plotnine = "^0.12.3"
+plotly = "^5.17.0"
+holidays = "^0.33"
+tsfeatures = "^0.4.5"
+statsmodels = "^0.14.0"
+tqdm = "^4.66.1"
+polars = ">=0.19.8"
+pyarrow = "^13.0.0"
+pathos = "^0.3.1"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.25.2"
+pytest = "^7.4.2"
+
+
+[tool.poetry.group.docs.dependencies]
+quarto = "^0.1.0"
+quartodoc = "^0.6.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
