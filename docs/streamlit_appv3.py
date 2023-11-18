@@ -1,8 +1,8 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-st.set_page_config(layout="wide")
-st.header("test html import")
+
+
 
 # Function to load HTML file based on dropdown selection
 def load_html_file(selected_option):
@@ -21,7 +21,11 @@ def load_html_file(selected_option):
 
 # Streamlit app
 def main():
+    st.set_page_config(layout="wide")
+    st.header("test html import")
     st.title("HTML File Viewer with Dropdown")
+
+    
 
     # Dropdown menu for selecting HTML file
     selected_option = st.selectbox("Select HTML File", [1, 2])
