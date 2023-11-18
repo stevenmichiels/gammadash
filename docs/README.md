@@ -1,3 +1,3 @@
 <div align="center">
-<img src="docs/gamma.png" width="30%"/>
+<img src="pictures/gamma.png" width="30%"/>
 </div>
