@@ -1,1 +1,1 @@
-# Gammatest
+# Gamma test
