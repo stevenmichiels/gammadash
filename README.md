@@ -1,10 +1,4 @@
-<div align="center">
-<img src="docs/gamma.png" width="30%"/>
-</div>
 
-
-
-# Gamma dashboard
-
-> Use option data to boost your trading
+## Website creation in progress.
+👀 👀 👀 This is where you will be able to look at the options gamma exposure of the most important indices, tech and energy stocks.
 
