@@ -3,7 +3,7 @@ logo: /assets/img/gamma.png
 #description: text below image
 show_downloads: true
 #remote_theme: pages-themes/hacker@v0.2.0
-remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+remote_theme: "Paramdigma/hydryne-jekyll-theme"
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
