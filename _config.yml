@@ -10,3 +10,10 @@ show_downloads: true
 remote_theme: daattali/beautiful-jekyll
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+navbar-links:
+  Home: ""
+  Projects: "projects"
+  About Me: "aboutme"
+  Presentations: "presentations"
+  PPM: "ppm"
