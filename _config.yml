@@ -5,6 +5,7 @@ show_downloads: true
 #remote_theme: pages-themes/hacker@v0.2.0
 #remote_theme: "Paramdigma/hydryne-jekyll-theme"
 #remote_theme: andrewbanchich/forty-jekyll-theme
-remote_theme: jeromelachaud/freelancer-theme
+#remote_theme: jeromelachaud/freelancer-theme
+remote_theme: dieghernan/chulapa
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
