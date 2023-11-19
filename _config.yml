@@ -4,8 +4,6 @@ logo: /assets/img/gamma.png
 show_downloads: true
 #remote_theme: pages-themes/hacker@v0.2.0
 #remote_theme: "Paramdigma/hydryne-jekyll-theme"
-remote_theme: daattali/beautiful-jekyll
+remote_theme: andrewbanchich/forty-jekyll-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-
