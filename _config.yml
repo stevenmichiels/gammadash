@@ -12,6 +12,11 @@ remote_theme: stevenmichiels/beautiful-jekyll
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
+
+# avatar: "/img/avatar-icon.png"
+
+
+# List of links in the navigation bar
 navbar-links:
   Home: ""
   Projects: "projects"
@@ -19,8 +24,15 @@ navbar-links:
   Presentations: "presentations"
   PPM: "ppm"
 
-  author:
+# --- Footer options --- #
+author:
   name: Steven Michiels
   email: "steven.michiels2@gmail.com"
   github: stevenmichiels
   twitter: Ursus2021
+
+# Select which links to show in the footer
+footer-links-active:
+  email: true
+  twitter: true
+  github: true
