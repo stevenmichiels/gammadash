@@ -7,6 +7,7 @@ show_downloads: true
 #remote_theme: andrewbanchich/forty-jekyll-theme
 #remote_theme: jeromelachaud/freelancer-theme
 #remote_theme: dieghernan/chulapa
-remote_theme: daattali/beautiful-jekyll
+#remote_theme: daattali/beautiful-jekyll
+remote_theme: stevenmichiels/beautiful-jekyll
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
