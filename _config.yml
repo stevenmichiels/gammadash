@@ -18,3 +18,9 @@ navbar-links:
   About Me: "aboutme"
   Presentations: "presentations"
   PPM: "ppm"
+
+  author:
+  name: Steven Michiels
+  email: "steven.michiels2@gmail.com"
+  github: stevenmichiels
+  twitter: Ursus2021
